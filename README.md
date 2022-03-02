@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="" target="_blank" rel="noreferrer"><img src=""></a>
+  <a href="https://www.linkedin.com/in/oussama-ayadi1/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/max/1100/1*f7amiYtprzEHCyWTAiGjJg.jpeg"></a>
 </p>
 
 <h3 align="center">
