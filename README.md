@@ -34,6 +34,7 @@ I love the entire process of developing creative websites. I love the challenge 
 - java
 - NodeJS
 - php
+- nextJS
 
 ## 💼 Technical Skills
 
