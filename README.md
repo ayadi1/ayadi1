@@ -31,6 +31,7 @@ I'm a full stack Web Developer 💻!
 
 - MongoDB
 - ReactJS
+- Typescript
 - Laravel
 - java
 - spring boot
