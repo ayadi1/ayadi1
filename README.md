@@ -28,15 +28,13 @@ I'm a full stack Web Developer 💻!
 
 ## 🌱 I'm currently learning
 
-- MongoDB
+- C#
 - ReactJS
 - Typescript
+- nextJS
 - Laravel
-- java
-- spring boot
 - NodeJS
 - php
-- nextJS
 
 ## 💼 Technical Skills
 
