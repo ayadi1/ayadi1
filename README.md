@@ -70,11 +70,5 @@ I'm a full stack Web Developer 💻!
 
 - [Tips for SASS learnenrs](https://www.linkedin.com/feed/update/urn:li:activity:6899439242078949376/)
 - [Building Landing Page Experience](https://www.linkedin.com/feed/update/urn:li:activity:6897151291437445120/)
-- [Portfolio Website](https://www.linkedin.com/feed/update/urn:li:activity:6894389172321210369/) -->
-
-## 📈 GitHub Stats 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ayadi1)](https://github.com/ayadi1)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayadi1&layout=compact)](https://github.com/ayadi1)
+- [Portfolio Website](https://www.linkedin.com/feed/update/urn:li:activity:6894389172321210369/) --
 
